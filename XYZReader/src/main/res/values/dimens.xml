@@ -1,0 +1,35 @@
+<resources>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <integer name="list_column_count">1</integer>
+
+    <!-- text sizes -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="article_title_text_size">20sp</dimen>
+    <dimen name="app_bar_text_size">20sp</dimen>
+    <dimen name="subheading_text_size">16sp</dimen>
+    <dimen name="body_text_size">14sp</dimen>
+
+    <!-- standard dimensions -->
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="twentyfour_dp">24dp</dimen>
+    <dimen name="fiftysix_dp">56dp</dimen>
+    <dimen name="seventytwo_dp">72dp</dimen>
+
+    <dimen name="article_list_app_bar">168dp</dimen>
+    <dimen name="article_detail_app_bar">280dp</dimen>
+    <dimen name="card_view_height">260dp</dimen>
+    <dimen name="app_bar_start_margin">72dp</dimen>
+    <dimen name="list_view_margin_vertical">16dp</dimen>
+    <dimen name="list_view_margin_horizontal">8dp</dimen>
+
+
+
+
+
+
+</resources>
